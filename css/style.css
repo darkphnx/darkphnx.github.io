@@ -1842,6 +1842,9 @@ body {
 main.container, main.content > .container {
   width: 50em; }
 
+p {
+  margin: 0 0 24px; }
+
 @font-face {
   font-family: 'Noto Serif';
   font-style: normal;
