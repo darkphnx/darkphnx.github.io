@@ -1868,12 +1868,13 @@ main.container, main.content > .container {
     min-height: 58em; }
 
 .content h1 {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, "Times New Roman", Times, serif;
   font-size: 6em;
   margin-top: 1em;
   border-bottom: 1px solid #222222;
   padding-bottom: 0.6em;
-  letter-spacing: 0.04em; }
+  letter-spacing: 0.04em;
+  font-weight: 800; }
 
 .top-strip {
   background-color: black;
@@ -1881,7 +1882,7 @@ main.container, main.content > .container {
 
 .entries {
   list-style: none;
-  font-family: 'Noto Serif';
+  font-family: 'Gotham SSm A', 'Gotham SSm B';
   margin: 2em 0 0; }
   .entries li {
     margin-bottom: 3em;
@@ -1889,9 +1890,10 @@ main.container, main.content > .container {
   .entries span {
     text-transform: uppercase;
     font-size: 0.9em;
-    letter-spacing: 0.1em; }
+    letter-spacing: 0.1em;
+    font-weight: 200; }
   .entries h3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, 'Times New Roman', Times, serif;
     font-size: 2em;
     margin-top: 0.2em; }
   .entries div {
@@ -1909,7 +1911,7 @@ main.container, main.content > .container {
   float: left; }
 
 #post-pagination {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, 'Times New Roman', Times, serif;
   margin-bottom: 3em; }
 
 .home-icon {
@@ -1918,21 +1920,23 @@ main.container, main.content > .container {
 
 .post h5 {
   margin: 5em 0 -6em 0;
-  font-family: 'Noto Serif';
+  font-family: 'Gotham SSm A', 'Gotham SSm B', 'Noto Serif';
   text-transform: uppercase;
   font-weight: normal;
-  letter-spacing: 0.6em; }
+  letter-spacing: 0.6em;
+  font-weight: 200; }
 .post h2 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, 'Times New Roman', Times, serif;
   font-size: 5em;
   padding: 1.5em 0 0.5em;
-  letter-spacing: 0.05em; }
+  letter-spacing: 0.05em;
+  font-weight: 800; }
 .post section {
-  font-family: 'Noto Serif';
+  font-family: 'Gotham SSm A', 'Gotham SSm B', 'Noto Serif';
   line-height: 1.9em; }
 
 footer .container {
-  font-family: 'Noto Serif';
+  font-family: 'Gotham SSm A', 'Gotham SSm B', 'Noto Serif';
   color: white;
   padding: 2em 0;
   font-size: 0.8em; }

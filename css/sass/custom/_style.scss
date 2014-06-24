@@ -71,13 +71,14 @@ main.container, main.content > .container{
 }
 
 .content h1{
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, "Times New Roman", Times, serif;
      @extend .center-txt;
     font-size: 6em;  
     margin-top: 1em;
     border-bottom: 1px solid $grayDarker;
     padding-bottom: 0.6em;
     letter-spacing: 0.04em;
+    font-weight: 800;
 }
 
 .top-strip{
@@ -92,7 +93,7 @@ main.container, main.content > .container{
 .entries{
      @extend .center-txt;
     list-style: none;
-    font-family: 'Noto Serif';
+    font-family: 'Gotham SSm A', 'Gotham SSm B';
     margin:2em 0 0;
 
     li{
@@ -105,10 +106,11 @@ main.container, main.content > .container{
         text-transform: uppercase;
         font-size: 0.9em;
         letter-spacing: 0.1em;
+        font-weight: 200;
     }
 
     h3{
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, 'Times New Roman', Times, serif;
         font-size: 2em;
         margin-top: 0.2em;
         @extend .a-hover;
@@ -143,7 +145,7 @@ main.container, main.content > .container{
 }
 
 #post-pagination{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 3em;
 }
 
@@ -163,22 +165,24 @@ main.container, main.content > .container{
     h5{
          @extend .center-txt;
         margin:5em 0 -6em 0;
-        font-family: 'Noto Serif';
+        font-family: 'Gotham SSm A', 'Gotham SSm B', 'Noto Serif';
         text-transform: uppercase;
         font-weight: normal;
         letter-spacing: 0.6em;
+        font-weight: 200;
     }
 
     h2{
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: 'Gotham SSm A', 'Gotham SSm B', Georgia, 'Times New Roman', Times, serif;
         @extend .center-txt;
         font-size: 5em;
         padding: 1.5em 0 0.5em;
         letter-spacing: 0.05em;
+        font-weight: 800;
     }
 
     section{
-        font-family: 'Noto Serif';
+        font-family: 'Gotham SSm A', 'Gotham SSm B', 'Noto Serif';
         line-height: 1.9em;
     }
 }
@@ -188,7 +192,7 @@ main.container, main.content > .container{
 
 footer .container{
     @extend .center-txt;
-    font-family: 'Noto Serif';
+    font-family: 'Gotham SSm A', 'Gotham SSm B', 'Noto Serif';
     color: $white;
     padding: 2em 0;
     font-size: 0.8em;

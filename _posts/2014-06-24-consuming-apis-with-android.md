@@ -14,7 +14,7 @@ I've split my application into a couple of packages, `api` and `models`. The `ap
 
 Create a new class in the `api` package. We'll call it `ApiClient`.  This class is going to create us a service which we can use to make API calls.
 
-{% highlight java %}
+{% highlight java linenum %}
 
 public class ApiClient {
     public static final String TAG = ApiClient.class.getSimpleName();
