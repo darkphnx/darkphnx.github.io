@@ -1,0 +1,11 @@
+# Site settings
+title: Dan Wentworth
+email: dan.wentworth@gmail.com
+description: "The blog of a Rails and Android Developer"
+baseurl: ""
+url: "http://darkphnx.com"
+highlighter: pygments
+
+# Build settings
+markdown: kramdown
+permalink: pretty
