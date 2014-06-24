@@ -52,7 +52,7 @@ p {  margin: 0 0 24px; }
 
 .a-hover{
         color: $grayDark;
-        @include transition(color 0.3s linear);
+        @include transition(opacity 0.3s linear);
 
         &:hover{
             color: $grayDark;

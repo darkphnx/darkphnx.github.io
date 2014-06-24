@@ -1855,10 +1855,10 @@ p {
 
 .a-hover, .entries h3, .entries a, .home-icon a {
   color: #333333;
-  -webkit-transition: color 0.3s linear;
-  -moz-transition: color 0.3s linear;
-  -o-transition: color 0.3s linear;
-  transition: color 0.3s linear; }
+  -webkit-transition: opacity 0.3s linear;
+  -moz-transition: opacity 0.3s linear;
+  -o-transition: opacity 0.3s linear;
+  transition: opacity 0.3s linear; }
   .a-hover:hover, .entries h3:hover, .entries a:hover, .home-icon a:hover {
     color: #333333;
     text-decoration: none;
