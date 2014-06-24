@@ -124,3 +124,7 @@ public class Filter {
 In reality, my filter class has nearer 10 attributes along with their associated getters and setters, but we'll go with 3 to keep things simple.
 
 Most of this should be pretty straightforward, the interesting attribute here is `cols`. We've defined it as `List<String>`, our JSON structure for cols gives us an array of column names. With the type defined as List<String> GSON will automatically convert that array into the correct type.
+
+All the pieces are now in place to start using our classes to fetch data from the API. I know this may have felt like a lot of work for making a simple API call. But doing this work up front will allow us to decouple our activities from the dirty business of fetching and parsing data and just focus on displaying it to the user.
+
+In the next post I'll show you how to use `sirpirtlyApiService` in your Activities and display a simple list view.
