@@ -1,7 +1,7 @@
 ---
 layout: post_page
 title: Consuming APIs on Android using Retrofit and GSON
-tags: Android
+tags: Android, Retrofit, GSON
 ---
 
 Many apps will at some point need to interact with a web API, coming from a Ruby/Rails world, a lot of the apps I write will be interacting with my own APIs. I've written this post as a guide to help myself remember the process, and hopefully help someone else out along the way.
@@ -127,4 +127,4 @@ Most of this should be pretty straightforward, the interesting attribute here is
 
 All the pieces are now in place to start using our classes to fetch data from the API. I know this may have felt like a lot of work for making a simple API call. But doing this work up front will allow us to decouple our activities from the dirty business of fetching and parsing data and just focus on displaying it to the user.
 
-In the next post I'll show you how to use `sirpirtlyApiService` in your Activities and display a simple list view.
+In the next post I'll show you how to use `sirpirtlyApiService` in your Activities and output some data.
