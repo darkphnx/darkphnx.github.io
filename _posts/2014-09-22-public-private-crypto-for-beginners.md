@@ -20,15 +20,14 @@ Symmetric encryption presents a couple of challenges; the big one is initial key
 ## Asymmetric Encryption
 Asymmetric encryption (also known as public-key encryption) sovles the key exchange problem by building it's keys as two parts, a public key and a private key. The public part of the key is (as the name suggests) public and can be safely published. The private part of the key must be kept secret by it's owner. If you want to send a secure message to another person, all you need is their public key, which you could have obtained via their website, or some other means such as e-maill. Since public keys don't need to be secret the method of transmission is unimportant. Popular asymmetric encryption algorithms include [RSA and DSS][3].
 
-When you want to send a message to someone, you get their **public key** and encrypt your message against that key. The generated message will only be decodable by their **private key**. Even you will be able to decrypt that message. When they want to send you a message, they must fetch your public key, and encrypt their message against that, which will generate a message that only you can decrypt.
+When you want to send a message to someone, you get their **public key** and encrypt your message against that key. The generated message will only be decodable by their **private key**. Even you will not be able to decrypt that message. When they want to send you a message, they must fetch your public key, and encrypt their message against that, which will generate a message that only you can decrypt.
 
 The drawback is each person in the conversation will require their own public/private keypair to facilitate two-way secure communications. Each person will also require a program to generate you a public/private keypair.
 
 ![Asymmetric Encryption](/assets/asymmetric.png)
 
-### Signing messages
-TODO...
-
+## Signing messages
+Public-key encryption also gives you the oppourtunity to verify the authenticity of the sender of a message. Using a private key, it is possible to sign a message which can be verified by the recipient with the public key of the sender. This gives you an extra layer in security, knowing that the message has been sent from a trusted source.
 
 [1]: http://www.amazon.co.uk/gp/product/1857028899/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1857028899&linkCode=as2&tag=danwent-21&linkId=VQZQD7DEECEH4NWU "amazon.co.uk - Simon Singh's Code Book"
 [2]: http://en.wikipedia.org/wiki/Symmetric-key_algorithm "Symmetric Key Algorithm - Wikipedia"
