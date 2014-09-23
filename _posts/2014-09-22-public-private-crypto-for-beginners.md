@@ -26,7 +26,7 @@ The drawback is each person in the conversation will require their own public/pr
 
 ![Asymmetric Encryption](/assets/asymmetric.png)
 
-## Signing messages
+## Signing Messages
 Public-key encryption also gives you the oppourtunity to verify the authenticity of the sender of a message. Using a private key, it is possible to sign a message which can be verified by the recipient with the public key of the sender. This gives you an extra layer in security, knowing that the message has been sent from a trusted source.
 
 [1]: http://www.amazon.co.uk/gp/product/1857028899/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1857028899&linkCode=as2&tag=danwent-21&linkId=VQZQD7DEECEH4NWU "amazon.co.uk - Simon Singh's Code Book"
