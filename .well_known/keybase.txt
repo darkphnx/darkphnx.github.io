@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/darkphnx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://darkphnx.com
+  * I am darkphnx (https://keybase.io/darkphnx) on keybase.
+  * I have a public key with fingerprint D8BA 713C E18D C737 7F4A  5720 7F4F 8BF6 059F CF70
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d8ba713ce18dc7377f4a57207f4f8bf6059fcf70",
+            "host": "keybase.io",
+            "key_id": "7f4f8bf6059fcf70",
+            "uid": "bd5bfa60a45565111535d3df4404e300",
+            "username": "darkphnx"
+        },
+        "service": {
+            "hostname": "darkphnx.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411637758,
+    "expire_in": 157680000,
+    "prev": null,
+    "seqno": 1,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yMGlAnicO8LLzMDF6LiS1640eOUyxtMHNpcyhCg//FetlJSfUqlkVa2UnQqm0jLz
+0lOLCooy80qUrJRSLJISzQ2Nk1MNLVKSzY3NzdNMEk3NjQyAdJpFUpqZgallWnKa
+uYGSjlJGfjFIB9CYpMTiVL3MfKAYkBOfmQIUxaK+FCyRlGKalJZoZpBoYmpqZmpo
+aGhqbJpinJJmYmJgkmpsAFZYnFqUl5ibCnJOYlF2QUZehVKtjhJQtCwzORXkZpDV
+aCr0kvNzgXoLivJL8pPzc4AyGSUlBVYgjSWVBSCV5alJ8VAz4pMy81KA/gZqKEst
+Ks7Mz1OyMgSqTC7JBBlqaGJoaAb0u6mFjlJqRUFmUWp8JkiFqbmZhQEQgKxJLVOy
+yivNyQG5qzAvHygLtCgxHWhPcWZ6XmJJaVGqUu2hAzEsDIxcDGysTKCwZ+DiFIDF
+iLUZ+x9+N7WZgW0Cp9kC2MXVZpnciQ6od2VmUXRg9NhdvWbfP9sHmz4mVJbVdwhE
+Le1eb7y38t7bxw/N/a/s5pOcoV+z5L74sl3f3T4W/HxzZ4rGAi75xR8UmJOLikuX
+FWiJ9W1cfm22jNDdOZUGi6sPv1wq8uR4Ye3jL99bNV8Z7XUPefI2npVr7pHGVefE
+q5SWGe9xXpuw3bdkcuOaeI/qAxrveyu5D33J2tZw6vKNY7ppU1lelfRUrF3RFqzm
+s0b7oXPL7RLBvddbzp3Yc2L3QrPuaV/nzBH3v2jnw1T6ZNtKl6ZgllT1Nc7nktaE
+XXmyRn8ZrxKT9/IndXdj2/qLHOI93+f5SGyv4xdodj79vgsAed4D6g==
+=R9/+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/darkphnx
+
+==================================================================
