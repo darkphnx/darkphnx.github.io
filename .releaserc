@@ -2,7 +2,9 @@
   "branches": ["master"],
   "repositoryUrl": "git@github.com:darkphnx/darkphnx.github.io.git",
   "plugins": [
-    "@semantic-release/commit-analyzer",
+    ["@semantic-release/commit-analyzer", {
+      "preset": "conventionalcommits"
+    }],
     "@semantic-release/release-notes-generator",
     ["@semantic-release/changelog", {
       "changelogFile": "CHANGELOG.md"
