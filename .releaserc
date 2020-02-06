@@ -1,4 +1,5 @@
 {
   "branches": ["master"],
-  "repositoryUrl": "git@github.com:darkphnx/darkphnx.github.io.git"
+  "repositoryUrl": "git@github.com:darkphnx/darkphnx.github.io.git",
+  "plugins": ["@semantic-release/commit-analyzer", "@semantic-release/release-notes-generator"]
 }
