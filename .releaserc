@@ -19,6 +19,7 @@
       "markdownReleaseNotes": true,
       "onSuccessTemplate": {
         "username": "$package_name Bot",
+        "channel": "dev-slack-tests",
         "icon_url": "https://qa.fettle.health/favicon-32x32.png",
         "text": "Version $release_notes"
       }
