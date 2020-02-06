@@ -8,6 +8,14 @@ orbs:
   ruby: circleci/ruby@0.1.2 # Ruby orb registry: https://circleci.com/orbs/registry/orb/circleci/ruby
 
 jobs:
+  changelog:
+    docker:
+      - image: circleci/node:8
+    steps:
+      - checkout
+      - run: npm install -g semantic-release
+      - run: npx semantic-release@17
+
   build:
     docker:
       - image: circleci/ruby:2.3.7-stretch-node
