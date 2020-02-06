@@ -18,7 +18,9 @@
       "notifyOnSuccess": true,
       "markdownReleaseNotes": true,
       "onSuccessTemplate": {
-       "text": "A new release has been made: $release_notes"
+        "username": "$package_name Bot",
+        "icon_url": "https://qa.fettle.health/favicon-32x32.png",
+        "text": "Version $release_notes"
       }
     }]
   ]
