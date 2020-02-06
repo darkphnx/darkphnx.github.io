@@ -31,6 +31,4 @@ workflows:
   build_and_changelog:
     jobs:
       - build
-      - changelog:
-        requires:
-          - build
+      - changelog
