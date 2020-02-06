@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/darkphnx/darkphnx.github.io/compare/v1.2.0...v1.3.0) (2020-02-06)
+
+
+### Features
+
+* **release:** parse markdown release notes ([9321592](https://github.com/darkphnx/darkphnx.github.io/commit/9321592203170c10521d4ee2b24d58412ccec976))
+
 # [1.2.0](https://github.com/darkphnx/darkphnx.github.io/compare/v1.1.1...v1.2.0) (2020-02-06)
 
 
