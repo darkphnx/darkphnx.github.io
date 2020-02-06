@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/darkphnx/darkphnx.github.io/compare/v1.1.1...v1.2.0) (2020-02-06)
+
+
+### Features
+
+* **release:** add semantic-release-slack-bot ([5a48bce](https://github.com/darkphnx/darkphnx.github.io/commit/5a48bceccaf803d6b1c4dc19d1b3227ae435aa22))
+
 ## [1.1.1](https://github.com/darkphnx/darkphnx.github.io/compare/v1.1.0...v1.1.1) (2020-02-06)
 
 
