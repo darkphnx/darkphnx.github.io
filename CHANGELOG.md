@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/darkphnx/darkphnx.github.io/compare/v1.3.1...v1.4.0) (2020-02-06)
+
+
+### Features
+
+* **release:** fancier release notes ([1e0cf0d](https://github.com/darkphnx/darkphnx.github.io/commit/1e0cf0d1ae7ca329f77af9fba590befee2b7bdfb))
+
 ## [1.3.1](https://github.com/darkphnx/darkphnx.github.io/compare/v1.3.0...v1.3.1) (2020-02-06)
 
 
