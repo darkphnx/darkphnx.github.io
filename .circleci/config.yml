@@ -13,7 +13,7 @@ jobs:
       - image: circleci/node:10
     steps:
       - checkout
-      - run: npm install semantic-release@17 npm install @semantic-release/changelog @semantic-release/git semantic-release-slack-bot
+      - run: npm install semantic-release@17 npm install @semantic-release/changelog @semantic-release/git semantic-release-slack-bot conventional-changelog-conventionalcommits
       - run: npx semantic-release
 
   build:

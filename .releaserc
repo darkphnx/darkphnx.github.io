@@ -3,7 +3,8 @@
   "repositoryUrl": "git@github.com:darkphnx/darkphnx.github.io.git",
   "plugins": [
     ["@semantic-release/commit-analyzer", {
-      "preset": "conventionalcommits"
+      "preset": "conventionalcommits",
+      "presetConfig": {}
     }],
     "@semantic-release/release-notes-generator",
     ["@semantic-release/changelog", {
