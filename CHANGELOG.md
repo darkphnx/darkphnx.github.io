@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/darkphnx/darkphnx.github.io/compare/v1.3.0...v1.3.1) (2020-02-06)
+
+
+### Bug Fixes
+
+* **typo:** fix a typo ([0bdf1ae](https://github.com/darkphnx/darkphnx.github.io/commit/0bdf1ae8c6b2ac6c851ce70a9b4a27841f011229))
+
 # [1.3.0](https://github.com/darkphnx/darkphnx.github.io/compare/v1.2.0...v1.3.0) (2020-02-06)
 
 
