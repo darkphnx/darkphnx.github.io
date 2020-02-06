@@ -27,11 +27,12 @@ jobs:
       - ruby/bundle-install
 
 workflows:
+  version: 1
   build_and_changelog:
     jobs:
       - build:
-        requires:
-          - build
-      - changelog:
-        requires:
-          - changelog
+          requires:
+            - build
+      - changes:
+          requires:
+            - changelog
