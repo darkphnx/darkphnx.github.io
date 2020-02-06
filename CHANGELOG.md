@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/darkphnx/darkphnx.github.io/compare/v1.4.0...v1.4.1) (2020-02-06)
+
+
+### Bug Fixes
+
+* **release:** provide a channel too ([7a5d1b1](https://github.com/darkphnx/darkphnx.github.io/commit/7a5d1b19259f7a85f519d0009930fc0cf735c2d1))
+
 # [1.4.0](https://github.com/darkphnx/darkphnx.github.io/compare/v1.3.1...v1.4.0) (2020-02-06)
 
 
