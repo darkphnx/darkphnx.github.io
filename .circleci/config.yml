@@ -25,3 +25,12 @@ jobs:
           name: Which bundler?
           command: bundle -v
       - ruby/bundle-install
+
+workflows:
+  version: 2
+  build_and_changelog:
+    jobs:
+      - build
+      - changelog:
+        requires:
+          - build
