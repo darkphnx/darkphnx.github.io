@@ -1,5 +1,15 @@
 {
   "branches": ["master"],
   "repositoryUrl": "git@github.com:darkphnx/darkphnx.github.io.git",
-  "plugins": ["@semantic-release/commit-analyzer", "@semantic-release/release-notes-generator"]
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    ["@semantic-release/changelog", {
+      "changelogFile": "CHANGELOG.md"
+    }],
+    ["@semantic-release/git", {
+      "assets": ["CHANGELOG.md"],
+      "message": "chore(release): ${nextRelease.version} [skip ci]"
+    }]
+  ]
 }

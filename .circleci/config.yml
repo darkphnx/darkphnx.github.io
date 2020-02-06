@@ -13,7 +13,7 @@ jobs:
       - image: circleci/node:10
     steps:
       - checkout
-      - run: npm install semantic-release
+      - run: npm install semantic-release npm install @semantic-release/changelog @semantic-release/git
       - run: npx semantic-release@17
 
   build:
