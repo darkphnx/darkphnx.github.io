@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/darkphnx/darkphnx.github.io/compare/v1.4.1...v1.4.2) (2020-02-06)
+
+
+### Bug Fixes
+
+* **release:** post to dev_team_one ([599ba1f](https://github.com/darkphnx/darkphnx.github.io/commit/599ba1f8b63297db2d9ff0fe40b38e986999489d))
+
 ## [1.4.1](https://github.com/darkphnx/darkphnx.github.io/compare/v1.4.0...v1.4.1) (2020-02-06)
 
 
