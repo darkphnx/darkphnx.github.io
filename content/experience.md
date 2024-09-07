@@ -18,6 +18,12 @@ Health-tech company specialising in Sexual and Reproductive Health (SRH). Respon
 * Established the use of an Applicant Tracking System (ATS) for hiring and advertised directly for candidates in addition to working with selected recruiters.
 
 ## Senior Software Engineer, SH:24, 2019 - 2021
+Health-tech company specialising in Sexual and Reproductive Health (SRH). Member of the service development team responsible for designing and implementing new features and pathways.
+
+* Developed back-office systems and clinical pathways using Ruby on Rails in co-ordination with product and design teams.
+* Built easy-to-use consumer facing progressive web apps using Javascript, React, Ionic, and Ruby on Rails.
+* Written and optimised database performance in PostgreSQL and DynamoDB.
+* Deployment tooling and Linux systems administration.
 
 ## Head of Development, aTech Media, 2015 - 2019
 SaaS company in the developer tools space. Responsible for maintenance and development of several SaaS applications (project management, deployment, CRM).
@@ -32,4 +38,19 @@ SaaS company in the developer tools space. Responsible for maintenance and devel
 * As part of the DevRel strategy invovled in planning and running of re:develop software conference in Bournemouth.
 
 ## Software Engineer, aTech Media, 2010 - 2015
+SaaS company in the developer tools space. Developing features for a variety of applications.
+
+* Developing applications primarily in Ruby on Rails.
+* Scaling applications to support tens-of-thousands of concurrent users.
+* Introduced real-time functionality for a modern, responsive experience.
+* Building rich front-end features in React where appropriate.
+* Server and systems administration including hardware provisioning and maintenance.
+
+## Contractor, Adrian Tession Associates, 2008 - 2010
+Part-time contractor around university studies. Software house providing a variety of services including an expertise in multivalue databases and e-commerce systems.
+
+## Junior Software Engineer, Tripleplay Services, 2007 - 2008
+Year in industry as part of degree. Developerd pioneering IPTV and Video on Demand services.
+
 ## Computing BSc (Hons), Bournemouth University, 2006 - 2010
+1st BSc (Hons) in Computing. Specialised in Advanced Networking, Advanced Development, Software Quality and Testing.
