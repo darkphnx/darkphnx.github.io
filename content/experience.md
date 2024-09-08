@@ -1,7 +1,7 @@
 +++
 title = 'Experience'
 date = 2024-09-05T19:19:33+01:00
-draft = false
+draft = true
 +++
 
 ## VP of Engineering, SH:24, 2021 - Present

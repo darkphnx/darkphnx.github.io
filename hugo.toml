@@ -22,9 +22,9 @@ palette = "solarized-light"
 # Sidebar: about/bio
 [params.about]
 title = "Dan Wentworth"
-description = "Technology leadership, health tech, interoperability, Ruby on Rails"
+description = "15 years of technology leadership, software engineering, interoperability, and Ruby on Rails"
 # unicode/emoji logo:
-logo = "🍚"
+logo = "🚀"
 # or use an image:
 #logo_image = "images/rice.svg"
 
@@ -53,19 +53,19 @@ url = "https://uk.linkedin.com/in/danwentworth"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/"
+    url = "#about"
     weight = 10
 
   [[menu.main]]
     identifier = "experience"
     name = "Experience"
-    url = "/experience/"
+    url = "#experience"
     weight = 10
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact/"
+    url = "#contact"
     weight = 10
 
 [taxonomies]
