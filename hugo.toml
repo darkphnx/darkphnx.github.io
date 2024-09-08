@@ -1,4 +1,4 @@
-baseURL = 'https://darkphnx.com/'
+baseURL = 'https://darkphnx.github.io/'
 languageCode = 'en-gb'
 title = 'darkphnx.com'
 theme = 'risotto'
