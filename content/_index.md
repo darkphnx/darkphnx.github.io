@@ -62,7 +62,7 @@ SaaS company in the developer tools space. Developing features for a variety of 
 Part-time contractor around university studies. Software house providing a variety of services including an expertise in multivalue databases and e-commerce systems.
 
 ## Junior Software Engineer, Tripleplay Services, 2007 - 2008
-Year in industry as part of degree. Developerd pioneering IPTV and Video on Demand services.
+Year in industry as part of degree. Developed pioneering IPTV and Video on Demand services.
 
 ## Computing BSc (Hons), Bournemouth University, 2006 - 2010
 1st BSc (Hons) in Computing. Specialised in Advanced Networking, Advanced Development, Software Quality and Testing.
