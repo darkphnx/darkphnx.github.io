@@ -1,6 +1,6 @@
 baseURL = 'https://wentworth.dev/'
 languageCode = 'en-gb'
-title = 'darkphnx.com'
+title = 'wentworth.dev'
 theme = 'risotto'
 author = "Dan Wentworth"
 paginate = 3
