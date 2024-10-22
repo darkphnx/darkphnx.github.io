@@ -22,7 +22,7 @@ palette = "solarized-light"
 # Sidebar: about/bio
 [params.about]
 title = "Dan Wentworth"
-description = "15 years of technology leadership, software engineering, interoperability, and Ruby on Rails"
+description = "15 years of technology, leadership, software engineering, interoperability, and Ruby on Rails"
 # unicode/emoji logo:
 logo = "🚀"
 # or use an image:
