@@ -22,7 +22,7 @@ Health-tech company specialising in Sexual and Reproductive Health (SRH). Respon
 * Reporting to the CEO. Regularly providing board level updates, guiding product and technology strategy, and engaging with the whole executive team.
 * Built relationships with key external partners to facilitate deeper links between organisations and leverage integrations to benefit all parties.
 * Led a team of over 20 engineers, analysis, and testers. Put in place a a regime of regular team reviews, professional development, and performance management programs.
-* Achived extremely low turnover of wel performing team members.
+* Achieved extremely low turnover of well performing team members.
 * Developed close relationships with Head of Product and Head of Design to ensure fast, effective solutions to business and market problems.
 * Configured teams and processes to maximise productivity and flow without requiring large scale hiring.
 * Established a data team and associated technologies including data warehousing and machine learning tools. Automated all invoicing and reporting company-wide. Delivered an organisational shift to be data led in decision making.
